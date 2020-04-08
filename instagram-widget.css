@@ -1,0 +1,28 @@
+.ig-feed {
+  height: 100%;
+  width: 100%;
+  /*padding: 2em 0 2em 0 !important;*/
+}
+.feed-img {
+  height: 300px !important;
+  width: 300px !important;
+  background-position: center center;
+  background-size: 100% 100%;
+  filter: drop-shadow(2px 2px 4px black);
+  margin: .5em 0 .5em 0;
+  border-radius: 0.3em;
+  text-align: center;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
