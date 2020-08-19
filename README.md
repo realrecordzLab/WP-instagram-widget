@@ -1,4 +1,4 @@
-# uptheme instagram widget
+# WP instagram widget
 A simple Instagram feed widget plugin for wordpress powered under the hood by Swiper, Vue.js and axios.
 This widget will display the last twelwe uploaded media from a public instagram profile.
 
